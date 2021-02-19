@@ -1,4 +1,5 @@
 {
+    "requires": ["bare-metal", "lora", "mbedtls", "events", "stm32wl-lora-driver"],
     "config": {
         "main_stack_size":     { "value": 4096 }
     },
