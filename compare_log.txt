@@ -1,0 +1,10 @@
+ Mbed LoRaWANStack initialized 
+ CONFIRMED message retries : 3 
+ Adaptive data  rate (ADR) - Enabled 
+ Connection - In Progress ...
+ Connection - Successful 
+ Dummy Sensor Value = \d+ 
+ \d+ bytes scheduled for transmission 
+ Message Sent to Network Server 
+ Received message from Network Server 
+ RX Data on port \d+ \(\d+ bytes\): [\w ]+
